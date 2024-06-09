@@ -51,4 +51,6 @@ tick the chain name for ligand
 upload     ```ligand.sdf```
 <img width="577" alt="image" src="https://github.com/quantaosun/maestro_to_charmmgui/assets/75652473/80bd5c66-8f31-4bdf-b841-5109d80fee34">
 
+## In some situations you need to do the reverse modification, that is when the protein comes with HETATM
+In this case, please do not modify the ligand key word to ATOM, keep it as HETATM.
 
